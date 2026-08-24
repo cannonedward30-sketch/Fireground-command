@@ -1,0 +1,13 @@
+{
+  "name": "fireground-command-board-v6",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shared live incident command board prototype",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
